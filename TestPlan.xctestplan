@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "BA65CBB3-F7AF-4D84-AD4E-5CA94BA92B23",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SG Mobile Network.xcodeproj",
+        "identifier" : "9A29EAD724E53EF600F672B8",
+        "name" : "SG Mobile NetworkTests"
+      }
+    }
+  ],
+  "version" : 1
+}
